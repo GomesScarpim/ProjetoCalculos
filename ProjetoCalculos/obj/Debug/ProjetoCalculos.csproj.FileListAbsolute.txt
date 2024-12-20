@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\bin\Debug\ProjetoCalculos.exe.config
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\bin\Debug\ProjetoCalculos.exe
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\bin\Debug\ProjetoCalculos.pdb
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.FrmPrincipal.resources
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.Properties.Resources.resources
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.exe
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.pdb
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.FrmCalculadoraIMC.resources
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.FrmCalculoTabuadas.resources
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\bin\Debug\ProjetoCalculos.exe.manifest
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\bin\Debug\ProjetoCalculos.application
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.exe.manifest
+C:\Users\User\source\repos\ProjetoCalculos\ProjetoCalculos\obj\Debug\ProjetoCalculos.application
